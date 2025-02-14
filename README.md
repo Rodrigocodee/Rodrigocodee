@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Rodrigo Ferreira!
 
-<!--
-**Rodrigocodee/Rodrigocodee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Sobre mim
+Sou um desenvolvedor Back-end Java entrando nesse mundo de tecnologia e resolução de problemas. Atualmente, estou cursando o 4º periodo de Análise e Desenvolvimento de Sistemas e sempre buscando aprender mais para me tornar um programador cada vez melhor. Meu objetivo é encontrar minha primeira vaga na área e desenvolver soluções que ajudem as pessoas no futuro.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e Ferramentas
+- **Back-end:** Java, Python.
+- **Banco de Dados:** MySQL, Firebase.
+- **Front-end:** Javascript, Angular, Ionic.
+- **Versionamento:** Git, GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Objetivos
+- Me tornar um programador de destaque
+- Arrumar a primeira vaga.
+- Falar fluentemente inglês e francês.
+- Construir uma família e ter uma vida confortável
+- Criar algo inovador para impactar positivamente a vida das pessoas
+
+## 👀 Onde me encontrar
+- **LinkedIn:** www.linkedin.com/in/rodrigo-ferreira-574a961a5
+- **GitHub:** https://github.com/Rodrigocodee
+- **E-mail:** rf30065@gmail.com
+
+Fique à vontade para explorar meus repositórios e trocar uma ideia! ✌️
+
